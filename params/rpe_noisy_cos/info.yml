@@ -1,0 +1,13 @@
+bs: 32
+cw: 256
+emb_init_scale: 0.02
+embedding_dim: 64
+lr: 1e-5
+noise: 1
+num_heads: 4
+num_layers: 8
+schedule: 1
+training: 4510000
+vocab_size: 128
+widening_factor: 4
+rope: 1
